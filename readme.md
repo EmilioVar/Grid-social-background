@@ -15,4 +15,4 @@ Practicando el grid, flex, keyframes y position, he conseguido crear un layout d
  
  ## Screenshots y pequeño video:
  ![avatar](screenshot.png)
- ![video](video_login.mp4)
+ ![click aquí para ver el video](video_login.mp4)
