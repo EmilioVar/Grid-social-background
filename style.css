@@ -48,9 +48,11 @@ body{
     flex-flow: column wrap;
 }
 .label{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
     margin-top: 15px;
     display: inline-block;
-    width: 60px;
+    width: 80px;
 }
 .log-dates{
     box-shadow: 0px 5px 15px black;
